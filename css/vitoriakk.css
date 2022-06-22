@@ -1,0 +1,49 @@
+.cabecalho{
+    background-color:rgb(187, 49, 7) ;
+    display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: space-around;
+     color: black;
+    align-self: center;
+    
+}
+
+.corpo{
+    background-color: rgb(176, 213, 239);
+}
+.aula{
+width: 400px ;
+margin:auto;
+}
+.vitoria{
+    width: 100%auto;
+}
+
+.caixa{
+
+    color: rgb(171, 36, 36);
+    overflow: hidden;
+}
+.caixa2{
+
+    color: rgb(171, 36, 36);
+    overflow: hidden;
+}
+.vii{
+    color: rgb(171, 36, 36);
+    overflow: hidden;
+}
+.arve{
+    background-color: rgb(187, 49, 7);
+    
+    
+}
+.logo{
+    width: 100px;
+}
+.nada{
+   margin-left: 90%;
+   color: black;
+
+}
